@@ -4,7 +4,7 @@ Coding along with the Net Ninja's [REST API Tutorials (Node, Express & Mongo)](h
 ## Running Locally 
 1. Clone the repo
 ```
-git clone <URL>
+git clone https://github.com/rlabausa/tuts-netninja-rest-api-playlist.git
 ```
 2. Install all required dependencies
 ```
